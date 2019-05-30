@@ -15,7 +15,7 @@ a {
   text-decoration: none;
 }
 
-p{
+p {
   margin: 0.75rem 0;
 }
 /* Utility Classes */
@@ -195,7 +195,7 @@ p{
 #clients .items img {
   display: block;
   margin: auto;
-  width: 60%
+  width: 60%;
 }
 
 /* Section: Contact */
